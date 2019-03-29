@@ -57,12 +57,7 @@ div[role="content"].col-md-8 {
     border-radius: 5px;
     background-color:  #fff;
 }
-/*background under social networks and search */
-.hidden-xs {
-    width: 25% !important;
-    border: 0px solid rgba(255,0,0,0);
-    background-color:  #EAEAEA;
-}
+
 }
 
 @media (max-width: 991px) {
@@ -179,10 +174,7 @@ div[role="content"].col-md-8 {
    color: #044687;
 }
 
-/*transparent, rounded frame*/
-a{
-	border: 0px solid rgba(255,0,0,0);
-	border-radius: 12px;
+
 }
 /*the frame of the submenu of the menu*/
 .dropdown-menu{
