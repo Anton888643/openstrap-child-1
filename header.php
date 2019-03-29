@@ -241,17 +241,17 @@
 
     <div class="container" id="main-container">
     
-    <div class="col-md-12" >
+ <!--  <div class="col-md-12" >
     <?php
-        if ( is_front_page() ){
-            if (!wp_is_mobile()){
-                echo do_shortcode('[crellyslider alias="main_page_slider"]');
-            } else {
-                echo do_shortcode('[crellyslider alias="main_page_slider_mob"]');
+       # if ( is_front_page() ){
+        #    if (!wp_is_mobile()){
+          #      echo do_shortcode('[crellyslider alias="main_page_slider"]');
+          #  } else {
+          #      echo do_shortcode('[crellyslider alias="main_page_slider_mob"]');
             }
         }
     ?>
-    </div>
+    </div> -->
     <p>
 
 	<div class="row" id="main-row">
