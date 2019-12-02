@@ -87,7 +87,7 @@
 		{
 			position: new google.maps.LatLng(49.5503987,25.5880084),
 			type: 'university',
-			shopName: 'ТДМУ, Інститут морфологічний',
+			shopName: 'ТНМУ, Інститут морфологічний',
 			shopAddress: 'Руська, 12, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 208
@@ -95,7 +95,7 @@
 		{
 			position: new google.maps.LatLng(49.5445811,25.6121596),
 			type: 'university',
-			shopName: 'ТДМУ, Інститут моделювання та аналізу патологічних процесів',
+			shopName: 'ТНМУ, Інститут моделювання та аналізу патологічних процесів',
 			shopAddress: 'Гетьмана Дорошенка 7, Тернопіль, Тернопільська область, 46000',
   			icon: templateUrl+"/images/academic-building.png",
 			heading: 214
@@ -103,7 +103,7 @@
 		{
 			position: new google.maps.LatLng(49.5521107,25.5906239),
 			type: 'university',
-			shopName: 'ТДМУ, Інститут фармакології, гігієни та медичної біохімії ім. М. П. Скакуна',
+			shopName: 'ТНМУ, Інститут фармакології, гігієни та медичної біохімії ім. М. П. Скакуна',
 			shopAddress: 'Майдан Волі 1, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 175
@@ -111,7 +111,7 @@
 		{
 			position: new google.maps.LatLng(49.5498643,25.5968433),
 			type: 'university',
-			shopName: 'ТДМУ, Бібліотека',
+			shopName: 'ТНМУ, Бібліотека',
 			shopAddress: 'Січових стрільців 8, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 197
@@ -119,7 +119,7 @@
 		{
 			position: new google.maps.LatLng(49.5511261,25.5970054),
 			type: 'university',
-			shopName: 'ТДМУ, Фармацевтичний факультет',
+			shopName: 'ТНМУ, Фармацевтичний факультет',
 			shopAddress: 'Руська, 36, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 172
@@ -127,7 +127,7 @@
 		{
 			position: new google.maps.LatLng(49.560212,25.5950123),
 			type: 'university',
-			shopName: 'ТДМУ, Кафедра терапевтичної стоматології',
+			shopName: 'ТНМУ, Кафедра терапевтичної стоматології',
 			shopAddress: 'Чехова 3, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 26
@@ -135,7 +135,7 @@
 		{
 			position: new google.maps.LatLng(49.5606896,25.595121),
 			type: 'university',
-			shopName: 'ТДМУ, Стоматологічний факультет',
+			shopName: 'ТНМУ, Стоматологічний факультет',
 			shopAddress: 'Чехова 7, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 242
@@ -143,7 +143,7 @@
 		{
 			position: new google.maps.LatLng(49.5531571,25.5941792),
 			type: 'university',
-			shopName: 'ТДМУ, Iнститут медико-бiологiчних проблем',
+			shopName: 'ТНМУ, Iнститут медико-бiологiчних проблем',
 			shopAddress: 'Словацького, 2, Тернопіль, Тернопільська область',
 			icon: templateUrl+"/images/academic-building.png",
 			heading: 275
